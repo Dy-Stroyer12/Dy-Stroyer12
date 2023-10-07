@@ -1,6 +1,8 @@
 # 👋 Hi, I’m @Dy-Stroyer12!
 
-I am a **Dev** (*Wow!*)
+I am a **Dev** (*Wow!*).
+
+I'm also very interested in **cybersecurity**.
 
 ## Languages I know:
 - **C# (.NET)**
