@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Dy-Stroyer12!
+# 👋 Hi, I’m Dylan!
 
 I am a **Dev** (*Wow!*).
 
