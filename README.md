@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Dylan!
-*This is an example*
+
 I am a **Dev** (*Wow!*).
 
 I'm also very interested in **cybersecurity**.
