@@ -6,11 +6,13 @@ I'm also very interested in **cybersecurity**.
 
 ## Languages I know:
 - **C# (.NET)**
+- **Lua**
 - **Python**
 - **Skript** (Minecraft Plugin)
 
 ## (")Languages(") I kinda know:
-- **Lua**
+- **C**
+- **JavaScript**
 - **CSS**
 - **HTML**
 
